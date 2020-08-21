@@ -1,1 +1,1 @@
-# Devops-aula01
+Primeiro repositório da diciplina de Devops
